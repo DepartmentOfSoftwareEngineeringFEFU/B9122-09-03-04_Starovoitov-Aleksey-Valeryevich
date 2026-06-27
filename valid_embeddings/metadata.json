@@ -1,0 +1,17 @@
+{
+  "created_at": "2026-04-15 22:30:46",
+  "total_persons": 2,
+  "total_faces": 19,
+  "persons": {
+    "Криштиану Роналду": {
+      "folder": "C:\\dev\\Diplom\\known_faces\\Криштиану Роналду",
+      "total_images": 10,
+      "successful_faces": 10
+    },
+    "Леонель Месси": {
+      "folder": "C:\\dev\\Diplom\\known_faces\\Леонель Месси",
+      "total_images": 10,
+      "successful_faces": 9
+    }
+  }
+}
