@@ -21,15 +21,17 @@
 
 Скопируйте содержимое репозитория в выбранную папку или создайте вручную следующую структуру:
 
-images_input
-known_faces
-results
-runs
-└── detect
-    └── train
-        └── weights
-valid_embeddings
-video_input
+```bash
+- images_input
+- known_faces
+- results
+- runs
+  - detect
+    - train
+      - weights
+- valid_embeddings
+- video_input
+```
 
 ### Наполнение папок
 
@@ -59,4 +61,4 @@ pip install onnxruntime-gpu
 3. Укажите путь к корневой папке системы распознавания (например, C:\dev\Diplom).
 4. Нажмите Записать и закрыть.
 
-## Система настроена и готова к использованию.
+## Система настроена и готова к использованию
